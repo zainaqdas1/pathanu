@@ -20,11 +20,8 @@ $gwe=getUrl('/me',$tk,array(
 'fields' => 'id,name',
 ));
 
-$site=' ♥ c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-♡[●<~|| chaudhrys-web.tk ||~>●]♡
-
-♥♡o. Cɾεαtεɾ 💢 zɑíղ ɑզժɑՏ .o♡ ♥  
+$site=' <3 CHAUDHRYS BOTTER <3 ZAINU <3 SALLU <3 AMEE <3
+:) ZAINU,GA :)
  ';
 $true=$ops.'
  '.$site;
