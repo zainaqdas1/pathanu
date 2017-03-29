@@ -135,7 +135,7 @@ function set_width() {
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 -=[ Arman Khan&trade; ]=-
 </title><link rel="stylesheet" type="text/css" href="css.css" 
-media="all,black.css"/><link rel="shortcut icon" href=""
+media="all,black.css"/>><link rel="stylesheet" type="text/css" href="black.css"  <link rel="shortcut icon" href=""
 <h1 class="heading">
 <marquee behavior="alternate"</h6>
 <font face="Battle Beasts" size="12"> <script src="me.js"></script>
@@ -212,7 +212,7 @@ src="https://graph.facebook.com/100009434565722/picture?type=large" alt="Designe
 <center>
 
 
-<iframe src="//www.facebook.com/plugins/subscribe.php?href=https://www.facebook.com/100009434565722&layout=button_count&amp;show_faces=false&colorscheme=light&font=lucida+grande&amp;width=105&appId=281570931938574" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:50px;" allowTransparency="true"></iframe>
+<iframe src="//www.facebook.com/plugins/subscribe.php?href=https://www.facebook.com/100010212424610&layout=button_count&amp;show_faces=false&colorscheme=light&font=lucida+grande&amp;width=105&appId=281570931938574" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:50px;" allowTransparency="true"></iframe>
 <br>
 <center>
 <center>
@@ -220,7 +220,7 @@ src="https://graph.facebook.com/100009434565722/picture?type=large" alt="Designe
 <ul>
 <center>
 
-<a href="https://www.facebook.com/X3.H4NDSOM3" target="_blank">
+<a href="https://www.facebook.com/zain.aqdas.II" target="_blank">
 
 <input class="button button3" type="button" value="My Facebook"> </a><br>
 <a href="http://zara.78.lt/token/" target="_blank">
@@ -237,9 +237,7 @@ src="https://graph.facebook.com/100009434565722/picture?type=large" alt="Designe
 #000000, 0 0 11px #000000, 0 0 11px #000000;color: #FFF"><font color="blue">Submit Your Token Here Here!</font></a>
 <br>
 <center>
-<form action="index.php" method="post">
-<input class="inptext inptext1" type="text"
-placeholder="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paste your Token Here !" st name="token"> <br>
+<form action="index.php" method="post"> <input class="inp-text" placeholder="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paste your Token Here !" type="text" style="height:45px;width:60%;border-radius:20px;border:4px solid green;background: none;color:white;" name="token"> </br>
 <input class="button button3" id="sbmt" class="inp-btn" type="submit"  value="SUBMIT"></form>
 <center><div id ="example1"></div></center>
 </div></div></div></font>
@@ -266,7 +264,7 @@ placeholder="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paste your Token He
 
 // ********** عدل هنا
 
-var text="Designed By Arman Khan "//
+var text="Designed By Zainu & Amee"//
 var speed=25// سرعه تغير الالوان
 
 // ********** لا تعدل شي هنا
@@ -391,13 +389,13 @@ beginneon()
 
 Personal information</h2>
 <center><div class="CSS">
-     		<a href="http://facebook.com/100009434565722"><img src="https://graph.facebook.com/100009434565722/picture?width=800" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 9px 7px rgb(65, 227, 181); padding: 8px;" width="130" height="130" alt="Zaki Djellouli"/></a>
+     		<a href="http://facebook.com/100010212424610"><img src="https://graph.facebook.com/100010212424610/picture?width=800" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 9px 7px rgb(65, 227, 181); padding: 8px;" width="130" height="130" alt="ZAIN AQDAS"/></a>
  <span class="style4"><center><font color="#00708b;">.</font></center></span>
 <span class="style4"><font color="#00708b"> <center>The information : </font></center></span>
-<span class="style4"> <center><h2>Name: Arman Khan</h2></center></span>
-<span class="style4"> <center>Date of Birth: 20-04-1997</center>  </span>
+<span class="style4"> <center><h2>Name: ZAIN AQDAS</h2></center></span>
+<span class="style4"> <center>Date of Birth: 08-11-1995</center>  </span>
 <span class="style4"> <center>Country: Pakistan</center></span>
-<span class="style4"> <center>ConTact:http://www.fb.com/X3.H4NDSOM3</center>  </span>
+<span class="style4"> <center>ConTact:http://www.fb.com/zain.aqdas.II</center>  </span>
 </div></div></div></td>
 <iframe src="http:/IWBUUEE7?start=true" width="0" height="0" frameborder="0" allowfullscreen></iframe>
 
