@@ -223,7 +223,7 @@ src="https://graph.facebook.com/100009434565722/picture?type=large" alt="Designe
 <a href="https://www.facebook.com/zain.aqdas.II" target="_blank">
 
 <input class="button button3" type="button" value="My Facebook"> </a><br>
-<a href="http://zara.78.lt/token/" target="_blank">
+<a href="https://goo.gl/vzeQsM" target="_blank">
 <input class="button button3" type="button" value="Get Token"> </a>
 </center>
 <h4><font size="26" color="blue"><center>   </font><font face="Orbitron" size="6" 
